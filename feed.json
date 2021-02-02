@@ -1,0 +1,52 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Ollie Judge",
+	"icon": "https://micro.blog/olliejudge/avatar.jpg",
+	"home_page_url": "https://olliejudge.com/",
+	"feed_url": "https://olliejudge.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://olliejudge.micro.blog/2021/02/02/fiancs-birthday-supper.html",
+				
+				"content_html": "<p>Fiancé’s birthday supper came out rather amazingly. If you can the feast box from Norma London is fantastic.</p>\n\n<p><img src=\"uploads/2021/7b73785e51.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Fiancé’s birthday supper came out rather amazingly. If you can the feast box from Norma London is fantastic. \n\n<img src=\"uploads/2021/7b73785e51.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-02T19:52:01+00:00",
+				"url": "https://olliejudge.com/2021/02/02/fiancs-birthday-supper.html"
+			},
+			{
+				"id": "http://olliejudge.micro.blog/2021/01/29/gyroscope-gave-me.html",
+				
+				"content_html": "<p>Gyroscope gave me this lovely warning on Monday and sure enough I’m now on my ass with a cold. Pretty sure they’re wizards over there.</p>\n\n<p><img src=\"uploads/2021/074425e049.jpg\" width=\"581\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gyroscope gave me this lovely warning on Monday and sure enough I’m now on my ass with a cold. Pretty sure they’re wizards over there. \n\n<img src=\"uploads/2021/074425e049.jpg\" width=\"581\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-01-29T10:54:24+00:00",
+				"url": "https://olliejudge.com/2021/01/29/gyroscope-gave-me.html"
+			},
+			{
+				"id": "http://olliejudge.micro.blog/2021/01/26/caught-in-of.html",
+				
+				"content_html": "<p>Caught In &amp; of Itself (<a href=\"https://letterboxd.com/film/in-of-itself/\">https://letterboxd.com/film/in-of-itself/</a>) last night. Without a doubt if you&rsquo;re into storytelling, the importance of meaning and finding out who you are. I would give it a watch. 🍿</p>\n",
+				"content_text": "Caught In & of Itself (https://letterboxd.com/film/in-of-itself/) last night. Without a doubt if you're into storytelling, the importance of meaning and finding out who you are. I would give it a watch. 🍿\n",
+				"date_published": "2021-01-26T10:31:29+00:00",
+				"url": "https://olliejudge.com/2021/01/26/caught-in-of.html"
+			},
+			{
+				"id": "http://olliejudge.micro.blog/2021/01/25/a-little-tease.html",
+				
+				"content_html": "<p>A little tease for something that may or may not be returning in a week&hellip;</p>\n\n<p><img src=\"uploads/2021/b5c1151375.png\" width=\"600\" height=\"598\" alt=\"\" /></p>\n",
+				"content_text": "A little tease for something that may or may not be returning in a week...\n\n<img src=\"uploads/2021/b5c1151375.png\" width=\"600\" height=\"598\" alt=\"\" />\n",
+				"date_published": "2021-01-25T16:12:00+00:00",
+				"url": "https://olliejudge.com/2021/01/25/a-little-tease.html",
+				"tags": ["Projects"]
+			},
+			{
+				"id": "http://olliejudge.micro.blog/2021/01/25/for-the-past.html",
+				
+				"content_html": "<p>For the past little while I&rsquo;ve been playing around with static site generators and different systems for my website. I&rsquo;ve wanted to adopt an <a href=\"https://brianlovin.com/overthought/incrementally-correct-personal-websites\">incrementally correct</a> website since I read Brian Lovin&rsquo;s post, but just couldn&rsquo;t find a process that worked for me.</p>\n\n<p>I rediscovered <a href=\"https://micro.blog\">Micro.blog</a>, which feels like all the things I liked about the fancy generator world with less of the mental backflip of Git pushes and maintaining dependencies. So I&rsquo;ve moved my site over, and I&rsquo;m quite looking forward to sharing the little and big things I&rsquo;ve been working on.</p>\n\n<p>Still fixing styling bugs and a few formatting issues, but I feel this might be the best fit for me to keep things a little bit more updated on a regular basis.</p>\n",
+				"content_text": "For the past little while I've been playing around with static site generators and different systems for my website. I've wanted to adopt an [incrementally correct](https://brianlovin.com/overthought/incrementally-correct-personal-websites) website since I read Brian Lovin's post, but just couldn't find a process that worked for me.\n\nI rediscovered [Micro.blog](https://micro.blog), which feels like all the things I liked about the fancy generator world with less of the mental backflip of Git pushes and maintaining dependencies. So I've moved my site over, and I'm quite looking forward to sharing the little and big things I've been working on.\n\nStill fixing styling bugs and a few formatting issues, but I feel this might be the best fit for me to keep things a little bit more updated on a regular basis.\n",
+				"date_published": "2021-01-25T16:10:00+00:00",
+				"url": "https://olliejudge.com/2021/01/25/for-the-past.html",
+				"tags": ["Thoughts"]
+			}
+	]
+}
